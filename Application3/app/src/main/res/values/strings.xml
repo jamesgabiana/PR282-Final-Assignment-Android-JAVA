@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="title_activity_build_map">BuildMap</string>
+    <string name="title_activity_edit_map">EditMap</string>
+    <string name="title_activity_display_map">DisplayMap</string>
+</resources>
